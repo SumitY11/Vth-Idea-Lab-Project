@@ -2,7 +2,7 @@
 
 **Smart India Hackathon 2026** • Problem Statement: **SIH26034**  
 *Department of Consumer Affairs, Ministry of Consumer Affairs, Food and Public Distribution*  
-*Team: JAMH X4*
+
 
 An offline-first, client-side Progressive Web Application (PWA) to screen packaged commodity labels for mandatory declarations under **Rule 6 of the Legal Metrology (Packaged Commodities) Rules, 2011**.
 
